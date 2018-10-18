@@ -7,7 +7,7 @@
 
 # Site settings
 title: Shall we Talk
-brief-intro: Just something Share
+brief-intro: Just something Shared
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://duziee.github.io" # the base hostname & protocol for your site
 
